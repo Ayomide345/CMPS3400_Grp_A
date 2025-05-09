@@ -8,7 +8,7 @@ Description:
     Parent/Child classes for vector & probability analytics,
     plus combos/permutations for categorical attributes.
 Authors:
-    Taylor Fradella, Angel Njoku
+    Taylor Fradella, Angel Njoku, Olubuse Ayomide.
 Date Created     : 2025-04-07
 Date Last Updated: 2025-05-06
 
