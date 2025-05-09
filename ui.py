@@ -6,7 +6,7 @@ Version: v0.3
 Description:
     CLI interface for Inventory Management.
 Authors:
-    Taylor Fradella, Angel Njoku
+    Taylor Fradella, Angel Njoku, Ayomide Olubuse.
 Date Created     : 2025-04-12
 Date Last Updated: 2025-05-XX
 
