@@ -6,7 +6,7 @@ Version: v0.1
 Description:
     Configuration constants for Inventory Management System.
 Authors:
-    Taylor Fradella, Angel Njoku
+    Taylor Fradella, Angel Njoku, Ayomide Olubuse
 Date Created     : 2025-04-07
 Date Last Updated: 2025-05-XX
 
